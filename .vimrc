@@ -248,3 +248,5 @@ set statusline+=%=
 set laststatus=2
 
 " }}}
+
+" Credits: Brandon Wallace (https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
